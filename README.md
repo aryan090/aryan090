@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryan090](https://github.com/aryan090)
 
-- 💬 Ask me about **Analysis, Accounting**
+- 💬 Ask me about **Analysis, Accounting, Data Visualization**
 
 - 📫 How to reach me **aryanthakur526520@gmail.com**
 
