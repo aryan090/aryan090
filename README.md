@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://d3kqdc25i4tl0t.cloudfront.net/articles/content/fbcd33859f5566908eabadc6cfb27228_hero.jpeg)](https://aryan090)
+[![MasterHead](https://github.com/aryan090/aryan090/blob/main/as.png?raw=true)](https://aryan090)
 
 <h1 align="center">Hi 👋, I'm Aryan thakur</h1>
 <h3 align="center">A passionate Data Analyst</h3>
