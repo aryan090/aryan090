@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://img.freepik.com/premium-photo/business-hand-worker-holding-business-analytics-big-data-analysis-technology-future-concept-vr-screen-blur-background_102957-264.jpg?w=2000)](https://aryan090)
+[![MasterHead](https://d3kqdc25i4tl0t.cloudfront.net/articles/content/fbcd33859f5566908eabadc6cfb27228_hero.jpeg)](https://aryan090)
 
 <h1 align="center">Hi 👋, I'm Aryan thakur</h1>
 <h3 align="center">A passionate Data Analyst</h3>
