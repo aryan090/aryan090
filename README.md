@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/aryan090/aryan090/blob/main/Aryan%20thakur%20(1).gif)](https://aryan090)
+[![MasterHead](https://github.com/aryan090/aryan090/blob/main/Aryan%20thakur%20.png)](https://github.com/aryan090/aryan090/blob/main/Aryan%20thakur%20.png)
 
 <h1 align="center">Hi 👋, I'm Aryan thakur</h1>
 <h3 align="center">A passionate Data Analyst</h3>
