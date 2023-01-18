@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aryan090/aryan090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <a href="https://fb.com/aryan.thakur090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan.thakur090" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan.thakur090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan.thakur090" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aryanthakur52651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryanthakur52651" height="30" width="40" /></a>
+<a href="https://leetcode.com/aryan_090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_090" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aryanthakur526520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryanthakur526520" height="30" width="40" /></a>
 </p>
 
