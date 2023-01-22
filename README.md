@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/aryan090/aryan090/blob/main/Aryan%20thakur%20.png)](https://github.com/aryan090/aryan090/blob/main/Aryan%20thakur%20.png)
 
 <h1 align="center">Hi 👋, I'm Aryan thakur</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Analyst From India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966">
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aryanthakur090" target="blank"><img src="https://img.shields.io/twitter/follow/aryanthakur090?logo=twitter&style=for-the-badge" alt="aryanthakur090" /></a> </p>
 
-- 🔭 I’m currently working on [tensorflow_2.0 project](https://github.com/aryan090/tensorflow_2.0Project)
+- 🔭 I’m currently working on [ICC-T20-Project](https://github.com/aryan090/ICC-T20-Project)
 
 - 🌱 I’m currently learning **Data Visualization, Analytics, Data Structure And Algorithms**
 
