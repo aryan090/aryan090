@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Analysis, Accounting, Data Visualization**
 
 - 📫 How to reach me **aryanthakur526520@gmail.com**
-- ⚡ Fun fact: **Enthusiastic person, curious to learn and good at grabbing opportunities**
+- ⚡  **Enthusiastic person, curious to learn and good at grabbing opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
