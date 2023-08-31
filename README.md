@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aryanthakur090" target="blank"><img src="https://img.shields.io/twitter/follow/aryanthakur090?logo=twitter&style=for-the-badge" alt="aryanthakur090" /></a> </p>
 
-- 🔭 I’m currently working on [ICC-T20-Project](https://github.com/aryan090/ICC-T20-Project)
+- 🔭 I’m currently working on [Predicting_AirlineTicket_Fare_Data_Analysis](https://github.com/aryan090/Predicting_AirlineTicket_Fare_Data_Analysis)
 
 - 🌱 I’m currently learning **Data Visualization, Analytics, Data Structure And Algorithms**
 
